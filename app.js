@@ -64,6 +64,8 @@ var book="A smarter way to learn javascript";
 
 alert("I am trying to learn from the book " + book);
 
+alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”");
+
 
 // Chapter2 variable for string started
 
@@ -81,6 +83,19 @@ alert("I am year " + age +" old");
 var a=15;
 
 alert("You have visited this site 14 times");
+
+
+var birthYear=2007;
+
+document.write(" My Birthyear is " + birthYear);
+
+
+var companyName="www.abcwebsite.com";
+var customerName="Arham Khan";
+var productName="Shalwar Qameez";
+var quantity="2";
+
+document.write(customerName + "ordered" + quantity + productName + "from" + companyName);
 
 
 
